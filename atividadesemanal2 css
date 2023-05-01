@@ -3,7 +3,7 @@
     width: 556px;
     height: 175px;
     left: 352px;
-    top: 321px;
+    top: 10;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -31,7 +31,7 @@
     width: 556px;
     height: 175px;
     left: 352px;
-    top: 375px;
+    top: 13%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -60,7 +60,7 @@ body {
     width: 552px;
     height: 72px;
     left: 352px;
-    top: 556px;
+    top: 40%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -79,7 +79,7 @@ body {
     width: 82px;
     height: 24px;
     left: 612px;
-    top: 649px;
+    top: 55%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -95,8 +95,43 @@ body {
 #urso{
     
     position:absolute;
-    top:55%;
+    top:20%;
     left:65%;
     width:30%;
     height:60%;
+}
+#botao{
+    position:absolute;
+    left:25%;
+    top:55%;
+    width:15%;
+    height:70px;
+    border-radius:56px;
+    border-color:#F3CE5E;
+    background-color:#F3CE5E;
+    
+}
+#Textbotao{
+    color:#663128;
+    font-size:1.5em;
+    font-weight: bold;
+}
+#Borda1{
+    position:absolute;
+    width: 100%;
+    height: 10%;
+    background-color:#663128;
+    top:0%;
+    left:0%;
+    clip-path: polygon(0% 0%, 50% 100%, 50% 100%, 0% 100%);
+    transform:rotate(-180deg);
+}
+#Borda2{
+    position:absolute;
+    width: 100%;
+    height: 20%;
+    background-color:#663128;
+    top:90%;
+    left:0%;
+    clip-path: polygon(0% 0%, 90% 104%, 0% 100%, 0% 100%);
 }
