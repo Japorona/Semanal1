@@ -24,5 +24,16 @@
     </section>
     <section id="Borda2">
     </section>
-
+    <section class="Pagina2">
+        <br>
+        <h1 id="serv">SERVICES</h1>
+        <figure>
+            <img src="Empresas.png" id="imagem2"/>
+        </figure>
+        <br>
+        <button id="botao2">Help me</button>
+      
+    </section>
+    </figure>
+ </section>
 </body>
