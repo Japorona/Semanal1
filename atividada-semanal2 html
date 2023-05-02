@@ -1,130 +1,149 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
     <title>Bear Bear</title>
-    <link rel="stylesheet" href="Style.css">
-</head>
-<body>
-<h1 id="titulo1">What the </h1>
-<h2 id ="titulo2">Bear bears</h2>
-<h3 id="textoqualquer">Lorem Ipsum is simply dummy text of the printing and typesetting <br> industry. Lorem Ipsum has been the industry's standard dummy <br>
-    text ever since the</h3>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <h1 id="titulo1">What the</h1>
+    <h2 id="titulo2">Bear bears</h2>
+    <h3 id="textoqualquer">
+      Lorem Ipsum is simply dummy text of the printing and typesetting <br />
+      industry. Lorem Ipsum has been the industry's standard dummy <br />
+      text ever since the
+    </h3>
     <p id="abut">About Us</p>
     <figure>
-        <img src="Urso.png" id="urso">
-        <img src="Fundo.png" alt="">
+      <img src="Urso.png" id="urso" />
+      <img src="Fundo.png" alt="" />
     </figure>
     <button id="botao">
-        <p id="Textbotao">
-            <strong>Help me</strong></p>
+      <p id="Textbotao">
+        <strong>Help me</strong>
+      </p>
     </button>
-    <section id="Borda1">
-    </section>
-    <section id="Borda2">
-    </section>
+    <section id="Borda1"></section>
+    <section id="Borda2"></section>
     <section class="Pagina2">
-        <br>
-        <h1 id="serv">SERVICES</h1>
-        <figure>
-            <img src="Empresas.png" id="imagem2"/>
-        </figure>
-        <br>
-        <button id="botao2">Help me</button>
-      
+      <br />
+      <h1 id="serv">SERVICES</h1>
+      <figure>
+        <img src="Empresas.png" id="imagem2" />
+      </figure>
+      <br />
+      <button id="botao2">Help me</button>
     </section>
     <section class="Pagina3">
-        <h1 id="Tit3">TESTYMONIALS</h1>
+      <h1 id="Tit3">TESTYMONIALS</h1>
 
-        <section id="Retangulos">
-            <section class="Retangulo"> 
-                <h2 class="kat">Kathryn Murphy</h2>
-                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                <figure class="Vector">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                     <img src="Vector.png" alt="ops">
-                </figure>
-            </section>
-
-            <section class="Retangulo">
-                <h2 class="kat">Kathryn Murphy</h2>
-                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                <figure class="Vector">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                </figure>
-            </section>
-        </section>
-        <br>
-        <section id="Retangulos2">
-            <section class="Retangulo">
-                <h2 class="kat">Kathryn Murphy</h2>
-                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                <figure class="Vector">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                </figure>
-            </section>
-
-            <section class="Retangulo">
-                <h2 class="kat">Kathryn Murphy</h2>
-                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                <figure class="Vector">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                    <img src="Vector.png" alt="ops">
-                </figure>
-            </section>
+      <section id="Retangulos">
+        <section class="Retangulo">
+          <h2 class="kat">Kathryn Murphy</h2>
+          <p class="textmaluco">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled
+          </p>
+          <figure class="Vector">
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+          </figure>
         </section>
 
-        <button id="Botao3">Help me</button>
+        <section class="Retangulo">
+          <h2 class="kat">Kathryn Murphy</h2>
+          <p class="textmaluco">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled
+          </p>
+          <figure class="Vector">
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+          </figure>
+        </section>
+      </section>
+      <br />
+      <section id="Retangulos2">
+        <section class="Retangulo">
+          <h2 class="kat">Kathryn Murphy</h2>
+          <p class="textmaluco">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled
+          </p>
+          <figure class="Vector">
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+          </figure>
+        </section>
 
+        <section class="Retangulo">
+          <h2 class="kat">Kathryn Murphy</h2>
+          <p class="textmaluco">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled
+          </p>
+          <figure class="Vector">
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+            <img src="Vector.png" alt="ops" />
+          </figure>
+        </section>
+      </section>
+
+      <button id="Botao3">Help me</button>
     </section>
     <footer class="Pagina4">
-        <h1 id="textfooter">CONTACT US</h1>
-        <section id="tudo">
-            <section id="esquerda">
-                <section class="campos"></section><br>
-            
-                <section class="campos"></section><br>
+      <h1 id="textfooter">CONTACT US</h1>
+      <section id="tudo">
+        <section id="esquerda">
+          <section class="campos"></section>
+          <br />
 
-                <section class="campos"></section><br>
+          <section class="campos"></section>
+          <br />
 
-                <button id="botao4">Enviar</button>
+          <section class="campos"></section>
+          <br />
 
-            </section>
-            <section id="direito">
-                <figure id="Gmail">
-                    <img src="gmail.png">
-                    <p>test@gmail.com</p>
-                </figure>
-
-                <figure id="Telefone">
-                    <img src="telefone (1).png">
-                    <p>(303) 555-0105</p>
-                </figure>
-
-                <figure id="Gps">
-                    <img src="gps.png">
-                    <p>2715 Ash Dr. San Jose, South Dakota 83475</p>
-                </figure>
-            </section>
-            
+          <button id="botao4">Enviar</button>
         </section>
-        
-        <section id="Borda3"></section>
+        <section id="direito">
+          <figure id="Gmail">
+            <img src="gmail.png" />
+            <p>test@gmail.com</p>
+          </figure>
+
+          <figure id="Telefone">
+            <img src="telefone (1).png" />
+            <p>(303) 555-0105</p>
+          </figure>
+
+          <figure id="Gps">
+            <img src="gps.png" />
+            <p>2715 Ash Dr. San Jose, South Dakota 83475</p>
+          </figure>
+        </section>
+      </section>
+
+      <section id="Borda3"></section>
     </footer>
-
-
-</body>
+  </body>
+</html>
