@@ -34,6 +34,97 @@
         <button id="botao2">Help me</button>
       
     </section>
-    </figure>
- </section>
+    <section class="Pagina3">
+        <h1 id="Tit3">TESTYMONIALS</h1>
+
+        <section id="Retangulos">
+            <section class="Retangulo"> 
+                <h2 class="kat">Kathryn Murphy</h2>
+                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+                <figure class="Vector">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                     <img src="Vector.png" alt="ops">
+                </figure>
+            </section>
+
+            <section class="Retangulo">
+                <h2 class="kat">Kathryn Murphy</h2>
+                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+                <figure class="Vector">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                </figure>
+            </section>
+        </section>
+        <br>
+        <section id="Retangulos2">
+            <section class="Retangulo">
+                <h2 class="kat">Kathryn Murphy</h2>
+                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+                <figure class="Vector">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                </figure>
+            </section>
+
+            <section class="Retangulo">
+                <h2 class="kat">Kathryn Murphy</h2>
+                <p class="textmaluco">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+                <figure class="Vector">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                    <img src="Vector.png" alt="ops">
+                </figure>
+            </section>
+        </section>
+
+        <button id="Botao3">Help me</button>
+
+    </section>
+    <footer class="Pagina4">
+        <h1 id="textfooter">CONTACT US</h1>
+        <section id="tudo">
+            <section id="esquerda">
+                <section class="campos"></section><br>
+            
+                <section class="campos"></section><br>
+
+                <section class="campos"></section><br>
+
+                <button id="botao4">Enviar</button>
+
+            </section>
+            <section id="direito">
+                <figure id="Gmail">
+                    <img src="gmail.png">
+                    <p>test@gmail.com</p>
+                </figure>
+
+                <figure id="Telefone">
+                    <img src="telefone (1).png">
+                    <p>(303) 555-0105</p>
+                </figure>
+
+                <figure id="Gps">
+                    <img src="gps.png">
+                    <p>2715 Ash Dr. San Jose, South Dakota 83475</p>
+                </figure>
+            </section>
+            
+        </section>
+        
+        <section id="Borda3"></section>
+    </footer>
+
+
 </body>
